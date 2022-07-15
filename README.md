@@ -16,9 +16,13 @@ TRANS-Net is an unrolled reconstruction method integrated with transformer modul
 # Environment
 
 cuda 10.0
+
 python 3.6.13
+
 TensorFlow 1.15.4
+
 Numpy 1.16.0
+
 Scipy 1.2.1
 
 
